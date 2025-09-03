@@ -1,21 +1,37 @@
-# 💼 IT-Consultant Portfolio – E-Commerce Case
 
-Dieses Repository simuliert die Einführung einer **E-Commerce-Plattform** bei der **NovaCommerce GmbH**.
+---
 
-## Inhalte
-- Projektauftrag & Anforderungsanalyse (`docs/`)
-- Solution Design & Prozesse (ERP-Integration, Payment, Analytics)
-- Demo-Daten (`demo/`)
-- Website (`index.html` + `styles.css`)
+## 🚀 Live-Demo
 
-## Tools & Methoden
-- Plattform: Shopify / Magento
-- Reporting: Power BI
-- Vorgehen: Scrum (2-Wochen-Sprints)
+Die Projektseite ist als Website via **GitHub Pages** verfügbar:  
+👉 [E-Commerce-Consultant-Portfolio](https://andasp317.github.io/IT-Consultant-Portfolio-E-Commerce/)
 
-## Rolle
-Ich habe die Rolle eines **Junior IT-Consultants** übernommen und folgende Aufgaben durchgeführt:
-- Anforderungsanalyse & Prozessdesign
-- Auswahl & Konfiguration der E-Commerce-Plattform
-- Erstellung von Demo-Daten + KPI-Dashboard
-- Dokumentation & Präsentation
+---
+
+## 📊 Demo-Daten & KPI-Reporting
+
+Beispieldaten (`Customers.csv`, `Orders.csv`, `Products.csv`) ermöglichen eine einfache KPI-Analyse in **Power BI**:  
+- **Umsatzentwicklung**  
+- **Bestseller-Produkte**  
+- **Lagerreichweite & Verfügbarkeit**  
+
+Eine Anleitung findet sich unter `demo/powerbi/README.md`.
+
+---
+
+## 🛠️ Methoden & Tools
+- **Plattformen:** Shopify, Magento  
+- **Methoden:** Scrum, User Stories, MoSCoW-Priorisierung  
+- **Tools:** GitHub Pages, Power BI  
+
+---
+
+## 👤 Autor
+**André Asprion**  
+📧 [Andre.Asprion@gmx.de](mailto:Andre.Asprion@gmx.de)  
+🌐 [GitHub: AndAsp317](https://github.com/AndAsp317)  
+
+---
+
+## 📜 Lizenz
+Dieses Projekt steht unter der [MIT License](LICENSE).
