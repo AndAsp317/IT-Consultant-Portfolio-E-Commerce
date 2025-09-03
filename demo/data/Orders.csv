@@ -1,0 +1,3 @@
+order_id,customer_id,product,amount,status
+101,1,Sneakers,89.9,paid
+102,2,Backpack,59.9,shipped
